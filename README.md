@@ -6,7 +6,7 @@ This is the second-year project in the Electrical and Computer Engineering Depar
 The library contains 127 different books. 
 
 
-The program proposes the options of (1) Adding/deleting/modifying a book, (2) searching for a book, (3) sorting books, (4) issuing/returning a book, (5) printing all the books in the library.
+The program proposes the options of (1) adding/deleting/modifying a book, (2) searching for a book, (3) sorting books, (4) issuing/returning a book, (5) printing all the books in the library.
 
 Please, read the attached the final report, which describes the coding approach and some important OOP concepts implemented in the program.
 
