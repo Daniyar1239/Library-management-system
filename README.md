@@ -1,5 +1,5 @@
 # Library-management-system
-Library management system implemented in C++
+## Library management system implemented in C++
 
 This is the second-year project in the Electrical and Computer Engineering Department at Nazarbayev University.
 
